@@ -1,0 +1,8 @@
+*/obj
+*/bin
+packages
+artifacts
+.vs
+TestResults
+.vscode
+bower_components
